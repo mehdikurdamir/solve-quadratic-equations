@@ -1,2 +1,2 @@
 # solve quadratic equations
-#حل معادلات درجه دوم
+حل معادلات درجه دوم
